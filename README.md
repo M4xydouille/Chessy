@@ -7,7 +7,7 @@ Un petit jeu d'echec qui évoluera constament ;)
 ## Pour jouer a notre jeu
 
 #### Avoir le nécessaire
-
+* Télécharge se fichier sur ton pc 
 * Installe Python : https://www.python.org/ftp/python/3.11.1/python-3.11.1.exe
 * Ouvre un terminal puis installe pip : $py get-pip.py
 * Puis installe les modules suivant : $pip install pygame
